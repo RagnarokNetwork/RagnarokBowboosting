@@ -1,0 +1,12 @@
+# Change the arrow projectile velocity.
+arrowMultiplier: 1.0
+horizontalMultiplier: 1.0
+verticalMultiplier: 1.0
+
+# Change the player velocity when bowboosting on the first shot.
+playerMultiplierHorizontal: 1.0
+playerMultiplierVertical: 1.0
+
+# Change the player velocity when in a bowboost chain.
+playerMultiplierHorizontalChain: 1.0
+playerMultiplierVerticalChain: 1.0

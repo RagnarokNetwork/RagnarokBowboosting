@@ -1,0 +1,10 @@
+name: RagnarokBowBoosting
+version: '${project.version}'
+main: net.ragnaroknetwork.ragnarokbowboosting.RagnarokBowBoosting
+authors: [ Bloedarend ]
+commands:
+  ragnarokbowboosting:
+    description: Reload the plugin.
+    usage: /ragnarokbowboosting help
+    permission: ragnarokbowboosting.admin
+    aliases: [ rbb, rbows ]
